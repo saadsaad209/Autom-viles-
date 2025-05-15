@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Compra y Venta de Coches</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 30px auto;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    .notice {
+      background-color: #ffdddd;
+      border-left: 6px solid #f44336;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+    h2 {
+      color: #d32f2f;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="notice">
+    <h2>Aviso importante</h2>
+    <p>
+      Todos los usuarios que publiquen vehículos para la venta en esta plataforma aceptan de forma obligatoria una comisión del <strong>5%</strong> sobre el precio final de venta.
+      Esta comisión corresponde a los servicios de intermediación y mantenimiento de la página web.<br><br>
+      Al aceptar publicar un vehículo, el vendedor y el comprador se comprometen a pagar dicha comisión una vez cerrada la operación.
+    </p>
+  </div>
+
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" crossorigin="anonymous"></script>
+
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+       data-ad-slot="YYYYYYYYYY"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+
+</body>
+</html>
